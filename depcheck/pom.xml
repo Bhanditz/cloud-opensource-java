@@ -45,7 +45,7 @@
     <dependency>
       <groupId>com.google.cloud</groupId>
       <artifactId>google-cloud-datastore</artifactId>
-      <version>1.37.1</version>
+      <version>1.88.0</version>
     </dependency>
   </dependencies>
 
@@ -65,7 +65,7 @@
         </executions>
         <configuration>
           <rules>
-            <dependencyConvergence />
+            <dependencyConvergence/>
           </rules>
         </configuration>
       </plugin>
