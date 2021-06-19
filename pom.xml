@@ -17,7 +17,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <guavaVersion>26.0-jre</guavaVersion>
+    <guavaVersion>30.0-jre</guavaVersion>
   </properties>
 
   <licenses>
